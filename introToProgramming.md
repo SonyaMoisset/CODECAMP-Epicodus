@@ -19,3 +19,7 @@
 - Git version control
 - Git configuration
 - Git commit tips
+- Git daily workflow
+- Git repository README
+- Git cheat sheet
+- Text editor: Atom
