@@ -25,3 +25,5 @@
 - Text editor: Atom
 - [Putting Git and MarkDom together](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS)
 - Peer code review: Day 1
+- Block elements
+- Blocks elements practice
