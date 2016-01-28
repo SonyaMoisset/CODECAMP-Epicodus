@@ -34,3 +34,8 @@
 - [Indentation and spacing practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/cookie-recipe)
 - Styling text
 - [Styling text practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- GitHub Pages
+- GitHub Pages practice
+- Git: Branching and merging
+- Git: Branching and merging practice
+- Peer code review: Day 2
