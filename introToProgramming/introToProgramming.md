@@ -26,4 +26,11 @@
 - [Putting Git and MarkDom together](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS)
 - Peer code review: Day 1
 - Block elements
-- Blocks elements practice
+- [Blocks elements practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- Inline elements
+- [Inline elements practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- Git clone
+- Indentation and spacing
+- [Indentation and spacing practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/cookie-recipe)
+- Styling text
+- [Styling text practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
