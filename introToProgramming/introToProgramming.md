@@ -1,5 +1,4 @@
 # Intro to Programming
-
 ## Pre Work Getting started at Epicodus
 - Learn how to program
 - Growth mindset
@@ -39,3 +38,16 @@
 - Git: Branching and merging
 - Git: Branching and merging practice
 - Peer code review: Day 2
+- Styling with classes
+- [Classes practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- Organizing with divs and spans
+- Div and span practice
+- Laying out with floats
+- [FLoats practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- THe box model
+- [Box model practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- Cascading
+- [Cascading practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/HTMLandCSS/MyFirstWebsite)
+- Media features and types
+- CSS Diner practice
+- Peer code review: Day 3
