@@ -51,3 +51,10 @@
 - Media features and types
 - CSS Diner practice
 - Peer code review: Day 3
+- Bootstrap
+- Inspecting elements
+- Continuing to learn HTML and CSS
+- Continuing with CSS practice
+- More HTML and Css resources
+- Peer code review: Day 4
+- HTML and CSS code review
