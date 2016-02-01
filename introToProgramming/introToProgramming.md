@@ -74,3 +74,4 @@
 - Writing functions
 - Practice: Writing functions
 - Introducing jQuery
+- Practice: jQuery
