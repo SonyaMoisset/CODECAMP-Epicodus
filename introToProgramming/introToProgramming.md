@@ -55,6 +55,17 @@
 - Inspecting elements
 - Continuing to learn HTML and CSS
 - Continuing with CSS practice
-- More HTML and Css resources
+- More HTML and CSS resources
 - Peer code review: Day 4
 - HTML and CSS code review
+
+## JavaScript and jQuery
+- JavaScript & jQuery objectives
+- Arithmetic
+- Practice: Arithmetic
+- JavaScript Variables
+- Practice: Variables
+- Methods
+- Practice: JavaScript Methods
+- JavaScript Strings
+- Practice: JavaScript Strings
