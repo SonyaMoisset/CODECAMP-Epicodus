@@ -75,3 +75,7 @@
 - Practice: Writing functions
 - Introducing jQuery
 - Practice: jQuery
+- Simple effects
+- Practice: jQuery effects
+- More jQuery basics practice
+- Peer code review process
