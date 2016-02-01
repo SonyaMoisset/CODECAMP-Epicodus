@@ -1,0 +1,8 @@
+.JS, .modulo, .operators, .nan, .vnc, .func {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.defJS, .defModulo, .defOperators, .defNan, .defVnc, .defFunc  {
+  display: none;
+}
