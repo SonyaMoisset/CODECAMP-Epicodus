@@ -69,3 +69,8 @@
 - Practice: JavaScript Methods
 - JavaScript Strings
 - Practice: JavaScript Strings
+- Functions
+- Practice: Functions
+- Writing functions
+- Practice: Writing functions
+- Introducing jQuery
