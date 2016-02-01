@@ -77,5 +77,5 @@
 - Practice: jQuery
 - Simple effects
 - Practice: jQuery effects
-- More jQuery basics practice
+- [More jQuery basics practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/JSandjQuery/flashcardSite)
 - Peer code review process
