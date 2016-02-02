@@ -79,3 +79,10 @@
 - Practice: jQuery effects
 - [More jQuery basics practice](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/JSandjQuery/flashcardSite)
 - Peer code review process
+- DOM manipulation and traversal
+- Practice: DOM manipulation and traversal
+- Forms
+- Practice: Forms
+- Attributes
+- Practice: jQuery attributes
+- Practice: jQuery with Treehouse
