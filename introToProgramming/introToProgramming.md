@@ -86,3 +86,17 @@
 - Attributes
 - Practice: jQuery attributes
 - Practice: jQuery with Treehouse
+- Branching
+- Practice: Branching
+- More branching
+- Practice: More branching
+- JavaScript Arrays
+- Practice: JavaScript Arrays
+- Looping
+- Practice: Looping
+- Looping with for
+- Practice: For loop
+- Debugging in JavaScript
+- JavaScript peer code review: Day 3
+- JavaScript and jQuery projects
+- JavaScript and jQuery Code Review
