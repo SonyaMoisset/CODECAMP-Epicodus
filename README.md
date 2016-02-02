@@ -21,3 +21,6 @@
 
 ##### 31/01/2016
 - Finished Intro to Programming | HTML and CSS
+
+##### 02/02/2016
+- Finished Intro to Programming | JavaScript and jQuery
