@@ -14,7 +14,7 @@ Install leap-year by cloning this repository.
 
 ## Technologies Used
 
-Application: JavaScript and jQuery
+Application: JavaScript and jQuery    
 Testing: Mocha and Chai
 
 ### Legal
