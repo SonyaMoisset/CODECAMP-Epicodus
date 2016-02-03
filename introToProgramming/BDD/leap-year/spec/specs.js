@@ -10,10 +10,14 @@ describe('leapYear', function() {
   it("is false for years divisible by 100", function() {
     expect(leapYear(1900)).to.equal(false);
   });
+
+  it("is true for years divisible by 400", function() {
+    expect(leapYear(2000)).to.equal(true);
+  });
 });
 
 var leapYear = function(year) {
-  if ((year % 4 === 0) && (year % 100 !== 0)) {
+  if ((year % 4 === 0) && (year % 100 !== 0) || (year % 400 === 0)) {
     return true;
   } else {
     return false;
