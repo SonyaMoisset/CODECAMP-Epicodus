@@ -100,3 +100,11 @@
 - JavaScript peer code review: Day 3
 - JavaScript and jQuery projects
 - JavaScript and jQuery Code Review
+
+## Behavior-driven development with JavaScript
+- JavaScript BDD objectives
+- Behavior-driven development (BDD)
+- Red-Gree-Refactor
+- BDD project directory setup
+- BDD: Business Logic
+- User interface logic
