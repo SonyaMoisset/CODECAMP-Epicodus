@@ -108,3 +108,10 @@
 - BDD project directory setup
 - BDD: Business Logic
 - User interface logic
+- Leap year, Triangle Tracker, Cryptosquare
+- Arrays: Comparing and cloning
+- Refactoring: Functions calling functions
+- Pig Latin, Palindromes, Primes sifting
+- Live Coding: Pig Latin(Optional)
+- Count up by, Work puzzle, Roman numerals, Bases
+- JavaScript BDD code review
