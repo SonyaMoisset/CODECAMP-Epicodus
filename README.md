@@ -24,3 +24,6 @@
 
 ##### 02/02/2016
 - Finished Intro to Programming | JavaScript and jQuery
+
+##### 05/02/2016
+- Finished Intro to Programming | Behavior-driven development with JavaScript
