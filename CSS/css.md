@@ -10,3 +10,4 @@
 - All about CSS
 - Box-Sizing: border-box
 - Centering with CSS
+- Block-level vs. inline
