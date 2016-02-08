@@ -27,3 +27,6 @@
 
 ##### 05/02/2016
 - Finished Intro to Programming | Behavior-driven development with JavaScript
+
+##### 08/02/2016
+- Finished Intro to Programming | Object-oriented programming with JavaScript
