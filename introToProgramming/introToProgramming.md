@@ -115,3 +115,10 @@
 - Live Coding: Pig Latin(Optional)
 - Count up by, Work puzzle, Roman numerals, Bases
 - JavaScript BDD code review
+
+## Object-oriented programming with JavaScript
+- JavaScript OO objectives
+- JavaScript objects
+- Constructors and Prototypes
+- Address Book: BDD (Part 1)
+- Address Book: User Interface (Part 1)
