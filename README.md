@@ -31,3 +31,4 @@
 ##### 08/02/2016
 - Finished Intro to Programming | Object-oriented programming with JavaScript
 - Finished Intro to Programming
+- Finished CSS | Getting started with CSS
