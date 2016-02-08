@@ -120,5 +120,11 @@
 - JavaScript OO objectives
 - JavaScript objects
 - Constructors and Prototypes
-- Address Book: BDD (Part 1)
-- Address Book: User Interface (Part 1)
+- [Address Book: BDD (Part 1)](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/OOP/addressBook)
+- [Address Book: User Interface (Part 1)](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/OOP/addressBook)
+- Objects within objects
+- [Address Book: BDD (Part 2)](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/OOP/addressBook)
+- [Address Book: User Interface (Part 2)](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/introToProgramming/OOP/addressBook)
+- Address Book: Refactoring (Optional)
+- Address book, Movie tickets, Bank account
+- JavaScript OO Code Review
