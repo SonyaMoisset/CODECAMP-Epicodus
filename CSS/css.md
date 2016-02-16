@@ -11,3 +11,9 @@
 - Box-Sizing: border-box
 - Centering with CSS
 - Block-level vs. inline
+- [Meme, Top 8, Landing Page, Event flyer](https://github.com/SonyaMoisset/CODECAMP-Epicodus/tree/master/CSS)
+- Selector level up
+- Styling with pseudo-classes
+- Styling HTML forms
+- Tables
+- Contact form, Films table, Scores table, Nutrition facts
