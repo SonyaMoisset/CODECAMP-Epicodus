@@ -4,7 +4,6 @@
 - CSS Documentation
 - Review: CSS Basics
 
-
 ## Moving forward with CSS
 - Moving forward with CSS objectives
 - All about CSS
@@ -17,3 +16,8 @@
 - Styling HTML forms
 - Tables
 - Contact form, Films table, Scores table, Nutrition facts
+- Positioning
+- Pinboard and endangered species infographics
+- Floats
+- 2-column layout, Treehouse library, "About me" page
+- Moving forward with CSS code review
