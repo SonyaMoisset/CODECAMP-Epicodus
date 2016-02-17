@@ -21,3 +21,8 @@
 - Floats
 - 2-column layout, Treehouse library, "About me" page
 - Moving forward with CSS code review
+
+## Responsive design
+- Responsive design objectives
+- Media queries
+- Responsive layout
