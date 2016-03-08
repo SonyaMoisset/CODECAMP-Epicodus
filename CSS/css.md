@@ -26,3 +26,11 @@
 - Responsive design objectives
 - Media queries
 - Responsive layout
+- Media queries practice, fluid images, Baker Street, fan page
+- Responsive design patterns
+- Responsive wireframing
+- Patterns and parks
+- Using Bootstrap's grid
+- Bootstrap grid practice, Bagdad, Sub Pop, OMS!
+- Choose your own adventure: frameworks and jQuery
+- Responsive design code review
