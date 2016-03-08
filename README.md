@@ -35,3 +35,4 @@
 
 ##### 08/03/2016
 - Finished CSS | Moving forward with CSS
+- Finished CSS | Responsive design
