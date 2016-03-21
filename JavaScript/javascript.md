@@ -4,3 +4,4 @@
 - Documentation and resources
 - Review: Object-oriented JavaScript
 - Build tools
+- Installing Node.js
