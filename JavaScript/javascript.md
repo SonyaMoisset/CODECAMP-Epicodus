@@ -6,3 +6,4 @@
 - Build tools
 - Installing Node.js
 - Node modules and npm
+- Browserify
