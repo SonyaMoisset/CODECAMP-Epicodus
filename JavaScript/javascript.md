@@ -7,3 +7,9 @@
 - Installing Node.js
 - Node modules and npm
 - Browserify
+- Gulp
+- Browserify with gulp
+- Concatenation
+- Minification
+- Build and clean tasks
+- JSHint
