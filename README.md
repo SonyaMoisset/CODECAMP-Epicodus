@@ -36,3 +36,6 @@
 ##### 08/03/2016
 - Finished CSS | Moving forward with CSS
 - Finished CSS | Responsive design
+
+##### 23/03/2016
+- Finished JavaScript | Getting started with JavaScript
