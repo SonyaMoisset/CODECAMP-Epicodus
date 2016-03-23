@@ -1,0 +1,23 @@
+{
+  "name": "ping-pong",
+  "description": "ping-pong game",
+  "main": "index.js",
+  "authors": [
+    "SonyaMoisset <sonya.moisset@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SonyaMoisset/CODECAMP-Epicodus",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
