@@ -13,3 +13,15 @@
 - Minification
 - Build and clean tasks
 - JSHint
+
+
+## Modern JS apps
+- Modern JS apps objectives
+- Practice with gulp and npm
+- Introducing Bower
+- Using a development server
+- Using an API
+- Alarm clock, Weather app
+- SASS with gulp
+- API driven app: Dino Ipsum, Bike Index, Google Maps
+- Modern JS apps indendent project
