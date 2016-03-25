@@ -14,7 +14,6 @@
 - Build and clean tasks
 - JSHint
 
-
 ## Modern JS apps
 - Modern JS apps objectives
 - Practice with gulp and npm
@@ -24,4 +23,11 @@
 - Alarm clock, Weather app
 - SASS with gulp
 - API driven app: Dino Ipsum, Bike Index, Google Maps
-- Modern JS apps indendent project
+- Modern JS apps independent project
+
+## Angular JS
+- Angular JS objectives
+- Modern JavaScript MVCs
+- Introducing TypeScript
+- Our first TypeScript: compiling and optional typing
+- Classes
