@@ -31,3 +31,4 @@
 - Introducing TypeScript
 - Our first TypeScript: compiling and optional typing
 - Classes
+- Interfaces
