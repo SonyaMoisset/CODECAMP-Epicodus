@@ -1,0 +1,18 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "SonyaMoisset <sonya.moisset@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SonyaMoisset/CODECAMP-Epicodus",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
