@@ -33,3 +33,12 @@
 - Classes
 - Interfaces
 - Modules
+- Object-Oriented TypeScript
+- Creating an Angular2 development environment
+- Planning a component tree
+- Displaying data in a view
+- Using built-in event emitters
+- Adding child components and custom event emitters
+- Using separate component and template files
+- Basic Angular forms: Editing properties with two-way data binding
+- More Angular forms: using local variables
