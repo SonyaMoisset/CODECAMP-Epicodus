@@ -39,3 +39,7 @@
 
 ##### 23/03/2016
 - Finished JavaScript | Getting started with JavaScript
+
+##### 30/03/2016
+- Finished JavaScript | Modern JS apps
+- Finished JavaScript | Angular JS
