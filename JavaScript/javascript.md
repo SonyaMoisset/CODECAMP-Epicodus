@@ -42,3 +42,7 @@
 - Using separate component and template files
 - Basic Angular forms: Editing properties with two-way data binding
 - More Angular forms: using local variables
+- Using pipes
+- Introducing Anguler
+- Tap Room, Music Store, Restaurant Reviews (Two-day project)
+- Angular 2 Basics independent project
