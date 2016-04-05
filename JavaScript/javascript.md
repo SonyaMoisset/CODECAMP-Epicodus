@@ -46,3 +46,10 @@
 - Introducing Anguler
 - Tap Room, Music Store, Restaurant Reviews (Two-day project)
 - Angular 2 Basics independent project
+
+## Ember JS
+- Ember.js objectives
+- Ember Installation
+- Ember Core Concepts
+- Application Setup and Structure
+- Routes and Templates
