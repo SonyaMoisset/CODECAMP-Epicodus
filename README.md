@@ -1,4 +1,5 @@
 # Epicodus
+Online Coding Bootcamp
 
 ## Courses
 - Intro to Programming
