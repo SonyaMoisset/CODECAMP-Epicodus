@@ -1,7 +1,7 @@
 # Epicodus
 Online Coding Bootcamp
 
-## Courses
+## Epicodus Curriculum / Courses
 - Intro to Programming
 - CSS
 - JavaScript
