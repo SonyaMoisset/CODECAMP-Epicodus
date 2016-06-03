@@ -1,5 +1,6 @@
 # Epicodus
-Online Coding Bootcamp    
+Online Coding Bootcamp 
+Design Path
 JavaScript Path
 
 ## Epicodus Curriculum / Courses
