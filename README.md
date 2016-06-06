@@ -1,7 +1,7 @@
 # Epicodus
 Online Coding Bootcamp    
-HTML + CSS Path         
-Design Path     
+HTML Path     
+Design Path          
 JavaScript Path
 
 ## Epicodus Curriculum / Courses
