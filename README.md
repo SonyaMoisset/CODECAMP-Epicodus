@@ -5,9 +5,9 @@ Design Path
 JavaScript Path
 
 ## Epicodus Curriculum / Courses
-- Intro to Programming
-- CSS
-- JavaScript
+- Intro to Programming - Done
+- CSS - Done
+- JavaScript - Done
 - Java
 - C#
 - PHP
