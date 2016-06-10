@@ -1,9 +1,10 @@
 # Epicodus
-Online Coding Bootcamp    
+Online Coding Bootcamp      
+Intro to Programming
 HTML Path   
 CSS Path
 Design Path          
-JavaScript Path
+JavaScript Path   
 
 ## Epicodus Curriculum / Courses
 - Intro to Programming - Done
