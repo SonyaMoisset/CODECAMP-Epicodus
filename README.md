@@ -4,7 +4,7 @@ Intro to Programming
 HTML Path   
 CSS Path
 Design Path          
-JavaScript Path 
+JavaScript Path       
 Android Path
 
 ## Epicodus Curriculum / Courses
