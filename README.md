@@ -1,5 +1,5 @@
 # Epicodus
-Online Coding Bootcamp      
+Online Coding Bootcamp/Curriculum     
 Intro to Programming
 HTML Path   
 CSS Path
