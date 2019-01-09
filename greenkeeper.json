@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "JavaScript/angular2/package.json",
+        "JavaScript/ping-pong/package.json",
+        "JavaScript/super-rentals/package.json"
+      ]
+    }
+  }
+}
