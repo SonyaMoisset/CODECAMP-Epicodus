@@ -1,4 +1,7 @@
 # Epicodus
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SonyaMoisset/CODECAMP-Epicodus.svg)](https://greenkeeper.io/)
+
 Online Coding Bootcamp/Curriculum     
 Intro to Programming
 HTML Path   
